@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ui/search-dropdown.tsx","./src/hooks/usesearchdropdown.ts","./src/types/optional.ts","./src/types/search-dropdown-props.ts","./src/utils/cities.ts"],"version":"5.8.3"}
